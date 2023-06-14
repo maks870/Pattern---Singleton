@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\bin\Debug\netcoreapp3.1\Pattern - Singleton.exe
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\bin\Debug\netcoreapp3.1\Pattern - Singleton.deps.json
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\bin\Debug\netcoreapp3.1\Pattern - Singleton.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\bin\Debug\netcoreapp3.1\Pattern - Singleton.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\bin\Debug\netcoreapp3.1\Pattern - Singleton.dll
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\bin\Debug\netcoreapp3.1\Pattern - Singleton.pdb
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.dll
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.pdb
+C:\Users\Administrator\source\repos\Pattern - Singleton\Pattern - Singleton\obj\Debug\netcoreapp3.1\Pattern - Singleton.genruntimeconfig.cache
